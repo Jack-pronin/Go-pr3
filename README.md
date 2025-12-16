@@ -90,3 +90,13 @@ make build
 
 
 <img width="1032" height="516" alt="image" src="https://github.com/user-attachments/assets/424585c0-b57a-462d-b648-88c243f1c95a" />
+
+## Gracefull shutdown
+
+<img width="443" height="96" alt="image" src="https://github.com/user-attachments/assets/78539c97-a867-4588-af1a-d2cc1b06abb7" />
+
+## Простейший CORS-middleware
+
+<img width="1029" height="262" alt="image" src="https://github.com/user-attachments/assets/8cab6193-1929-4a91-8ccb-e0667010857c" />
+
+
